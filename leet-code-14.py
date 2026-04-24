@@ -11,3 +11,4 @@ for i in range(len(strs[0])):
     result += c
     b = '"' + result + '"'
 print(b)
+#not the most efficient apporach 
